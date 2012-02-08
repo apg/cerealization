@@ -13,6 +13,7 @@ But it also knows how to do tnetstring's too.
 If you don't know about tnetstrings just send your internet location to
 [tnetstring.org](http://tnetstring.org/) and give it a look or two.
 
+And, we even do [msgpack](http://msgpack.org)!
 
 ## Act Now!
 
