@@ -2,3 +2,4 @@ python-cjson
 simplejson
 tnetstring
 ujson
+msgpack-python
